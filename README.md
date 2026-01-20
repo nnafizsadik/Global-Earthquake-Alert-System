@@ -1,4 +1,4 @@
-# Real-Time Global Earthquake Alert & Monitoring Dashboard
+# Real-Time Global Earthquake Alert & Monitoring System
 
 **Developer:** Nafiz Sadik  
 **Team:** Absolute Zero  

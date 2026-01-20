@@ -1,6 +1,5 @@
-# ========================
+
 # Logs
-# ========================
 logs
 *.log
 npm-debug.log*
@@ -9,39 +8,29 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
-# ========================
 # Diagnostic reports
-# ========================
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# ========================
 # Runtime / PID
-# ========================
 pids
 *.pid
 *.seed
 *.pid.lock
 
-# ========================
 # Coverage / Test
-# ========================
 lib-cov
 coverage
 *.lcov
 .nyc_output
 .grunt
 
-# ========================
 # Dependencies
-# ========================
 node_modules/
 bower_components
 jspm_packages/
 web_modules/
 
-# ========================
 # TypeScript / Build
-# ========================
 *.tsbuildinfo
 build/Release
 dist
@@ -51,9 +40,7 @@ dist
 .parcel-cache
 .out
 
-# ========================
 # Yarn / npm / pnpm
-# ========================
 .npm
 .yarn/cache
 .yarn/unplugged
@@ -61,9 +48,7 @@ dist
 .yarn/install-state.gz
 .yarn-integrity
 
-# ========================
 # IDE / Editor / Temp
-# ========================
 .vscode/
 .vscode-test
 .idea/
@@ -72,9 +57,7 @@ dist
 *.njsproj
 *.sln
 
-# ========================
 # Electron / Desktop Builds
-# ========================
 *.exe
 *.app
 *.dmg
@@ -82,18 +65,14 @@ dist
 *.snap
 release/
 
-# ========================
 # Environment variables
-# ========================
 .env
 .env.development.local
 .env.test.local
 .env.production.local
 .env.local
 
-# ========================
 # Misc / Miscellaneous
-# ========================
 .node_repl_history
 *.tgz
 .lock-wscript
@@ -108,9 +87,7 @@ release/
 .dynamodb/
 .tern-port
 
-# ========================
 # Vitepress / Vuepress / Docusaurus
-# ========================
 **/.vitepress/dist
 **/.vitepress/cache
 .vuepress/dist

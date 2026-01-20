@@ -1,58 +1,73 @@
 # Real-Time Global Earthquake Alert & Monitoring Dashboard
 
-**Developed by:** Nafiz Sadik  
+**Developer:** Nafiz Sadik  
 **Team:** Absolute Zero  
 
-## Project Info
+## Project Overview
 
-This project is a **real-time global earthquake alert and monitoring system** with interactive maps, live updates, earthquake notifications, and historical data export. Built to monitor earthquakes in real-time with <2s updates and critical SMS/in-app alerts.
+This project is a **real-time global earthquake alert and monitoring system** featuring interactive maps, live earthquake updates, alert notifications, and historical data visualization.  
+The system integrates real-time earthquake data sources to provide fast and reliable situational awareness.
 
 ---
 
 ## About the Developer
-This project is developed entirely by **Nafiz Sadik**.  
-You can view more about the developer at [Nafiz Sadik Portfolio](https://nafizsadik.me/).  
-All code is original and owned by the developer.
+
+This project is developed and maintained by **Nafiz Sadik** as part of the *Absolute Zero* team initiative.  
+It was built using modern web technologies and AI-assisted development workflows.
+
+🔗 Portfolio: https://nafizsadik.me/
 
 ---
 
-## How to Edit This Code
+## Features
 
-### **Use Your Preferred IDE**
-You can edit the code directly using your favorite IDE or text editor.  
-Changes committed locally can be pushed to your repository.
+- Real-time global earthquake monitoring  
+- Interactive map-based visualization  
+- Live data updates  
+- Alert and notification system  
+- Historical earthquake data analysis  
 
-### **Edit Files Directly on GitHub**
-- Navigate to the desired file(s) in your repository.  
-- Click the "Edit" button (pencil icon) in the file view.  
-- Make your changes and commit them.
+---
 
-### **Use GitHub Codespaces**
-- Navigate to the main page of your repository.  
-- Click on the "Code" button (green button) → Codespaces → New codespace.  
-- Edit files directly in the environment, commit, and push changes.
+## Technologies Used
+
+- Vite  
+- TypeScript  
+- React  
+- Tailwind CSS  
+- shadcn/ui  
+- USGS Earthquake API  
+- Electron.js (for desktop application)
+
+---
+
+## Development & Editing
+
+You can modify and extend this project using any modern development environment.
+
+### Options:
+- Edit locally using your preferred IDE  
+- Edit files directly on GitHub  
+- Use GitHub Codespaces for cloud-based development  
 
 ---
 
 ## Deployment
 
-You can deploy your project online using your preferred hosting solution.
+The web version can be deployed using platforms such as Vercel or Netlify.  
+A desktop version of the application is available via Electron.js builds.
 
+---
 
-## Technologies Used
+## License
 
-This project is built with:
-
-- Vite  
-- TypeScript  
-- React  
-- shadcn-ui  
-- Tailwind CSS  
+This project is licensed under the **MIT License**.
 
 ---
 
 ## Team
 
-**Absolute Zero** - Building innovative real-time monitoring and alert systems.
+**Absolute Zero**  
+Building innovative real-time monitoring and alert systems.
 
-**Developed by Nafiz Sadik**
+**Project Lead:** Nafiz Sadik

@@ -53,6 +53,6 @@ This project is built with:
 
 ## Team
 
-**Absolute Zero** — Building innovative real-time monitoring and alert systems.
+**Absolute Zero** - Building innovative real-time monitoring and alert systems.
 
 **Developed by Nafiz Sadik**

@@ -1,0 +1,93 @@
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime / PID
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage / Test
+lib-cov
+coverage
+*.lcov
+.nyc_output
+.grunt
+
+# Dependencies
+node_modules/
+bower_components
+jspm_packages/
+web_modules/
+
+# TypeScript / Build
+*.tsbuildinfo
+build/Release
+dist
+.next
+.nuxt
+.cache
+.parcel-cache
+.out
+
+# Yarn / npm / pnpm
+.npm
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.yarn-integrity
+
+# IDE / Editor / Temp
+.vscode/
+.vscode-test
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Electron / Desktop Builds
+*.exe
+*.app
+*.dmg
+*.deb
+*.snap
+release/
+
+# Environment variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Misc / Miscellaneous
+.node_repl_history
+*.tgz
+.lock-wscript
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.rpt2_cache/
+.temp
+.docusaurus
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+
+# Vitepress / Vuepress / Docusaurus
+**/.vitepress/dist
+**/.vitepress/cache
+.vuepress/dist
